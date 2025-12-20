@@ -1,0 +1,6 @@
+@ApiMov_HostAddress = http://localhost:5147
+
+GET {{ApiMov_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

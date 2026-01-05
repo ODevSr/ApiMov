@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ApiMov.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20251211004327_Inicial")]
-    partial class Inicial
+    [Migration("20251222235002_MyFirstMigration")]
+    partial class MyFirstMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
